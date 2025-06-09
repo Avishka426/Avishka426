@@ -7,6 +7,6 @@
 🚀 Currently building with React, Node.js, React Native, and Python  
 📊 Passionate about creating smart, scalable, and meaningful solutions  
 
-📬 Connect: [LinkedIn](www.linkedin.com/in/avishka-vishmitha) | [Email](avishkavishmitha2@gmail.com)
+📬 Connect: [LinkedIn]([www.linkedin.com/in/avishka-vishmitha](https://www.linkedin.com/in/avishka-vishmitha/)) | [Email](avishkavishmitha2@gmail.com)
 
 _"Code with purpose. Create with impact."_
