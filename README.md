@@ -9,4 +9,4 @@
 
 📬 Connect: [LinkedIn]([www.linkedin.com/in/avishka-vishmitha](https://www.linkedin.com/in/avishka-vishmitha/)) | [Email](avishkavishmitha2@gmail.com)
 
-_"Code with purpose. Create with impact."_
+_Code with purpose. Create with impact_
