@@ -59,9 +59,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishka426&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="avishka426" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=avishka426&theme=radical&hide_border=true" width="49%" alt="WakaTime Stats"/>
-</div>
+
 
 ## 🏆 GitHub Trophies:
 
