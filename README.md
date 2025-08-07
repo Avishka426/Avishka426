@@ -10,9 +10,7 @@
 
 <h3 align="center">I'm a third-year IT undergraduate at the University of Moratuwa who loves exploring how technology works and how it can be used to solve real problems. I'm especially interested in full-stack and mobile app development. Alongside my studies, I work as a freelancer on Fiverr, where I help people bring their web and app ideas to life.</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=avishka426&label=Profile%20views&color=0e75b6&style=flat" alt="avishka426" />
-</div>
+
 
 ## 🔥 About Me
 
