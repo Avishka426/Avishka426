@@ -25,9 +25,7 @@
 - ⚡ Fun fact: **I turn coffee into code ☕➡️💻**
 - 👨‍💻 All of my projects are available at [https://avishkavishmitha.vercel.app/](https://avishkavishmitha.vercel.app/)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishka426&theme=dark&hide_border=true" alt="avishka426" />
-</div>
+
 
 ## 🌐 Connect with me:
 
