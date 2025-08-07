@@ -52,9 +52,7 @@
   <img src="https://skillicons.dev/icons?i=figma,photoshop,arduino,tailwind,vue,dotnet" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishka426&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</div>
+
 
 ## 📊 GitHub Stats:
 
@@ -73,17 +71,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=avishka426&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="avishka426" />
 </div>
 
-## 📈 Contribution Graph:
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishka426&theme=github-compact&hide_border=true&area=true" width="100%"/>
-</div>
 
-## 🐍 Snake Animation:
 
-<div align="center">
-  <img src="https://github.com/avishka426/avishka426/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
