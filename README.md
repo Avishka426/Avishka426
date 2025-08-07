@@ -76,5 +76,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+coding!+%F0%9F%9A%80" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&cursor=false&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+coding!+%F0%9F%9A%80" alt="Footer Animation" />
 </div>
