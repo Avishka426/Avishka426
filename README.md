@@ -12,7 +12,7 @@
 
 
 
-## 🔥 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -25,7 +25,7 @@
 
 
 
-## 🌐 Connect with me:
+## Connect with me:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/avishka-vishmitha" target="_blank">
@@ -39,7 +39,7 @@
   </a>
 </div>
 
-## 🛠️ Languages and Tools:
+## Languages and Tools:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,postgresql" />
@@ -50,7 +50,7 @@
 
 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=avishka426&show_icons=true&theme=radical&hide_border=true" alt="avishka426" />
@@ -59,7 +59,7 @@
 
 
 
-## 🏆 GitHub Trophies:
+## GitHub Trophies:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avishka426&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="avishka426" />
