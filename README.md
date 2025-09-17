@@ -50,12 +50,6 @@
 
 
 
-## GitHub Stats:
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=avishka426&show_icons=true&theme=radical&hide_border=true" alt="avishka426" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishka426&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="avishka426" />
-</div>
 
 
 
